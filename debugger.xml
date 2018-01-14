@@ -1,11 +1,19 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="loadValuesAsync" value="false" />
+          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>
