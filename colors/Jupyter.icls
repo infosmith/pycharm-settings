@@ -3,13 +3,13 @@
     <property name="created">2018-01-17T17:37:39</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-01-17T18:30:14</property>
+    <property name="modified">2018-01-17T18:56:13</property>
     <property name="originalScheme">PyCharmed</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="2df806" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="3c3c3c" />
@@ -248,7 +248,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="6ae96a" />
-        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
