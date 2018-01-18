@@ -15,8 +15,8 @@
   </tool>
   <tool name="ipython nbconvert" description="Convert notebook to script" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/ipython" />
-      <option name="PARAMETERS" value="nbconvert --to python $FileName$" />
+      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/jupyter" />
+      <option name="PARAMETERS" value="nbconvert --to python $FileName$ $FileName$.py" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
