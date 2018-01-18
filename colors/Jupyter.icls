@@ -3,7 +3,7 @@
     <property name="created">2018-01-17T17:37:39</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-01-17T18:56:13</property>
+    <property name="modified">2018-01-17T18:58:58</property>
     <property name="originalScheme">PyCharmed</property>
   </metaInfo>
   <colors>
@@ -200,6 +200,12 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="555555" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
@@ -252,7 +258,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1f1f1f" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="0" />
       </value>
     </option>
