@@ -1,8 +1,22 @@
 <toolSet name="External Tools">
+  <tool name="jupyter nbconvert" description="Convert notebook to script" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/jupyter" />
+      <option name="PARAMETERS" value="nbconvert --to python $FileName$ $FileName$.py" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
   <tool name="pip-compile" description="pin dependencies" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/pip-compile" />
       <option name="PARAMETERS" value="$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="pip-sync" description="sync pinned dependencies" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/pip-sync" />
+      <option name="PARAMETERS" value="$FileNameWithoutExtension$.txt" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
@@ -17,13 +31,6 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/pytest" />
       <option name="PARAMETERS" value="-vv $FileName$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="jupyter nbconvert" description="Convert notebook to script" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/jupyter" />
-      <option name="PARAMETERS" value="nbconvert --to python $FileName$ $FileName$.py" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
