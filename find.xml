@@ -3,7 +3,9 @@
     <option name="customScope" value="File '.../_tweepy/.env [kb-python-libraries]'" />
     <option name="defaultScopeName" value="File '.../_tweepy/.env [kb-python-libraries]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../_tweepy/.env [kb-python-libraries]'" />
   </component>
 </application>
