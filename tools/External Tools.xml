@@ -23,7 +23,7 @@
   <tool name="pip install" description="sync pinned dependencies" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.virtualenvs/$ProjectName$/bin/pip" />
-      <option name="PARAMETERS" value="install -r $FileName" />
+      <option name="PARAMETERS" value="install -r $FileName$" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
