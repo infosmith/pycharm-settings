@@ -5,6 +5,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="TOML" />
     </extensionMap>
   </component>
 </application>
