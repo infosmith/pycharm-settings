@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <removed_mapping pattern="Makefile" type="Makefile" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
