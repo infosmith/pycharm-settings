@@ -1,10 +1,5 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="91" />
-      </DonationNagger>
-    </option>
     <option name="history">
       <list>
         <ColumnAlignerModel>
@@ -17,6 +12,12 @@
           </option>
         </ColumnAlignerModel>
       </list>
+    </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="ignoreLeadingSpaces" value="false" />
+        <option name="preserveLeadingSpaces" value="false" />
+      </SortSettings>
     </option>
   </component>
 </application>
