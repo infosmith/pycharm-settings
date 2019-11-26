@@ -20,6 +20,15 @@
             </list>
           </option>
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1574811527728" />
+          <option name="separators">
+            <list>
+              <option value="#" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
       </list>
     </option>
     <option name="sortSettings">
