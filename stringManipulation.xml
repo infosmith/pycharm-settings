@@ -29,6 +29,15 @@
             </list>
           </option>
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1574820897572" />
+          <option name="separators">
+            <list>
+              <option value="#" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
       </list>
     </option>
     <option name="sortSettings">
