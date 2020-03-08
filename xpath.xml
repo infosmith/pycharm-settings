@@ -1,0 +1,5 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SHOW_USAGE_VIEW" value="true" />
+  </component>
+</application>
