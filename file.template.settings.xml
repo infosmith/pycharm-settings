@@ -1,7 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="Docker Compose.yml" reformat="false" live-template-enabled="false" />
-    </default_templates>
-  </component>
-</application>
