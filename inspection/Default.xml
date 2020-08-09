@@ -3,8 +3,21 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="1">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="botocore" />
+          <item index="1" class="java.lang.String" itemvalue="pip-tools" />
+          <item index="2" class="java.lang.String" itemvalue="pyaes" />
+          <item index="3" class="java.lang.String" itemvalue="parso" />
+          <item index="4" class="java.lang.String" itemvalue="mypy-extensions" />
+          <item index="5" class="java.lang.String" itemvalue="pynamodb" />
+          <item index="6" class="java.lang.String" itemvalue="enum-compat" />
+          <item index="7" class="java.lang.String" itemvalue="localstack-client" />
+          <item index="8" class="java.lang.String" itemvalue="chalice" />
+          <item index="9" class="java.lang.String" itemvalue="boto3" />
+          <item index="10" class="java.lang.String" itemvalue="localstack-ext" />
+          <item index="11" class="java.lang.String" itemvalue="localstack" />
+          <item index="12" class="java.lang.String" itemvalue="dnslib" />
+          <item index="13" class="java.lang.String" itemvalue="urllib3" />
         </list>
       </value>
     </option>
