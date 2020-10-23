@@ -1,40 +1,24 @@
 <application>
   <component name="StringManipulationState">
-    <option name="history">
+    <option name="columnAlignerHistory">
       <list>
         <ColumnAlignerModel>
-          <option name="added" value="1556044554777" />
+          <option name="added" value="1603424589752" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
           <option name="separators">
             <list>
-              <option value="#" />
-              <option value="" />
+              <option value="==" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1574759108847" />
+          <option name="added" value="1603424721948" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
           <option name="separators">
             <list>
-              <option value="#" />
-              <option value="" />
-            </list>
-          </option>
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1574811527728" />
-          <option name="separators">
-            <list>
-              <option value="#" />
-              <option value="" />
-            </list>
-          </option>
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1574820897572" />
-          <option name="separators">
-            <list>
-              <option value="#" />
-              <option value="" />
+              <option value="==" />
             </list>
           </option>
         </ColumnAlignerModel>
