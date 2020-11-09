@@ -28,6 +28,7 @@
       <SortSettings>
         <option name="ignoreLeadingSpaces" value="false" />
         <option name="preserveLeadingSpaces" value="false" />
+        <option name="sortType" value="SHUFFLE" />
       </SortSettings>
     </option>
   </component>
