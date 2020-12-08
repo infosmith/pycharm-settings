@@ -11,6 +11,7 @@
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern=".stow-local-ignore" type="RegExp" />
       <mapping ext="opml" type="XML" />
