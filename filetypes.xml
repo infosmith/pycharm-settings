@@ -5,6 +5,7 @@
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="Env File" />
       <mapping pattern=".envrc.template" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes_global" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
