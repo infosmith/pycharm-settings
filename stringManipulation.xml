@@ -28,7 +28,6 @@
       <SortSettings>
         <option name="ignoreLeadingSpaces" value="false" />
         <option name="preserveLeadingSpaces" value="false" />
-        <option name="sortType" value="CASE_INSENSITIVE_Z_A" />
       </SortSettings>
     </option>
   </component>
