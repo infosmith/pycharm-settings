@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
     <option name="accentColor" value="63a9f1" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-54c96785:17645881738:-7ffe" />
