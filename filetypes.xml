@@ -14,6 +14,7 @@
       <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern=".stow-local-ignore" type="RegExp" />
+      <mapping pattern=".pylintrc" type="TOML" />
       <mapping ext="opml" type="XML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
