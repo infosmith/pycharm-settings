@@ -6,6 +6,7 @@
   <component name="CodeInsightSettings">
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
