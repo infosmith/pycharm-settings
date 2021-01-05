@@ -5,8 +5,8 @@
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern=".envrc.template" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes_global" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
@@ -14,7 +14,6 @@
       <mapping pattern=".gitmessage" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern=".stow-local-ignore" type="RegExp" />
-      <mapping pattern=".pylintrc" type="TOML" />
       <mapping ext="opml" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />

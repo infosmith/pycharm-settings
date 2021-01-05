@@ -1,5 +1,5 @@
 <application>
-  <component name="PlantUmlSettings">
+  <component name="PlantUmlSettingsNew">
     <option name="PLANTUML_LIMIT_SIZE" value="" />
     <option name="dotExecutable" value="/home/linuxbrew/.linuxbrew/bin/dot" />
     <option name="includedPaths" value="" />
