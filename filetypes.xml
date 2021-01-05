@@ -3,10 +3,11 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping pattern=".pylintrc" type="Ini" />
       <mapping pattern=".envrc.template" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes_global" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
