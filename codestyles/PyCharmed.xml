@@ -1,3 +1,8 @@
 <code_scheme name="PyCharmed" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <codeStyleSettings language="Makefile">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
