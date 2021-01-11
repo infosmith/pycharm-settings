@@ -5,4 +5,7 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="88" />
+  </codeStyleSettings>
 </code_scheme>
