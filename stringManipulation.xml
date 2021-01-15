@@ -44,6 +44,18 @@
             </list>
           </option>
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1610673752547" />
+          <option name="columnSortOrder" value="" />
+          <option name="keepLeadingIndent" value="false" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="#" />
+            </list>
+          </option>
+          <option name="trimLines" value="true" />
+        </ColumnAlignerModel>
       </list>
     </option>
     <option name="sortSettings">
