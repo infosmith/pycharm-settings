@@ -1,12 +1,12 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" starredTemplates="" unignoreActions="true" hideIgnoredFiles="true" notifyIgnoredEditing="true">
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" starredTemplates="" unignoreActions="true" hideIgnoredFiles="false" notifyIgnoredEditing="true">
     <languages>
       <language id="Bazaar" NEW_FILE="false" ENABLE="true" />
       <language id="CloudFoundry" NEW_FILE="false" ENABLE="false" />
       <language id="Chef" NEW_FILE="false" ENABLE="false" />
       <language id="Cvs" NEW_FILE="false" ENABLE="true" />
       <language id="Darcs" NEW_FILE="false" ENABLE="true" />
-      <language id="Docker" NEW_FILE="true" ENABLE="true" />
+      <language id="Docker" NEW_FILE="true" ENABLE="false" />
       <language id="ElasticBeanstalk" NEW_FILE="false" ENABLE="false" />
       <language id="ESLint" NEW_FILE="true" ENABLE="false" />
       <language id="Floobits" NEW_FILE="false" ENABLE="false" />
@@ -22,12 +22,12 @@
       <language id="Npm" NEW_FILE="true" ENABLE="false" />
       <language id="NuxtJS" NEW_FILE="false" ENABLE="false" />
       <language id="Perforce" NEW_FILE="false" ENABLE="false" />
-      <language id="Prettier" NEW_FILE="true" ENABLE="true" />
-      <language id="StyleLint" NEW_FILE="true" ENABLE="true" />
-      <language id="Stylint" NEW_FILE="true" ENABLE="true" />
-      <language id="Swagger Codegen" NEW_FILE="true" ENABLE="true" />
+      <language id="Prettier" NEW_FILE="true" ENABLE="false" />
+      <language id="StyleLint" NEW_FILE="true" ENABLE="false" />
+      <language id="Stylint" NEW_FILE="true" ENABLE="false" />
+      <language id="Swagger Codegen" NEW_FILE="true" ENABLE="false" />
       <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
-      <language id="Up" NEW_FILE="true" ENABLE="true" />
+      <language id="Up" NEW_FILE="true" ENABLE="false" />
     </languages>
     <userTemplates>
       <template name="Example user template">### Example user template
